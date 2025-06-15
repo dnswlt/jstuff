@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug App",
+            "request": "launch",
+            "mainClass": "me.hexz.jstuff.App",
+            "projectName": "playground"
+        }
+    ]
+}
